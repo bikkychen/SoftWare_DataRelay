@@ -1,0 +1,57 @@
+D:\chen\Core\数据中转\DataRelay\DataRelay\bin\Debug\DataRelay.exe.config
+D:\chen\Core\数据中转\DataRelay\DataRelay\bin\Debug\DataRelay.exe
+D:\chen\Core\数据中转\DataRelay\DataRelay\bin\Debug\DataRelay.pdb
+D:\chen\Core\数据中转\DataRelay\DataRelay\obj\Debug\DataRelay.csprojResolveAssemblyReference.cache
+D:\chen\Core\数据中转\DataRelay\DataRelay\obj\Debug\DataRelay.Form1.resources
+D:\chen\Core\数据中转\DataRelay\DataRelay\obj\Debug\DataRelay.Properties.Resources.resources
+D:\chen\Core\数据中转\DataRelay\DataRelay\obj\Debug\DataRelay.csproj.GenerateResource.Cache
+D:\chen\Core\数据中转\DataRelay\DataRelay\obj\Debug\DataRelay.exe
+D:\chen\Core\数据中转\DataRelay\DataRelay\obj\Debug\DataRelay.pdb
+E:\chen\DataRelay\DataRelay\bin\Debug\DataRelay.exe.config
+E:\chen\DataRelay\DataRelay\obj\Debug\DataRelay.exe
+E:\chen\DataRelay\DataRelay\obj\Debug\DataRelay.pdb
+E:\chen\DataRelay\DataRelay\bin\Debug\DataRelay.exe
+E:\chen\DataRelay\DataRelay\bin\Debug\DataRelay.pdb
+E:\chen\DataRelay\DataRelay\obj\Debug\DataRelay.Form1.resources
+E:\chen\DataRelay\DataRelay\obj\Debug\DataRelay.Properties.Resources.resources
+E:\chen\DataRelay\DataRelay\obj\Debug\DataRelay.csproj.GenerateResource.Cache
+E:\chen\DataRelay\DataRelay\obj\Debug\DataRelay.csprojResolveAssemblyReference.cache
+E:\chen\数据中转\DataRelay\bin\Debug\DataRelay.exe.config
+E:\chen\数据中转\DataRelay\obj\Debug\DataRelay.exe
+E:\chen\数据中转\DataRelay\obj\Debug\DataRelay.pdb
+E:\chen\数据中转\DataRelay\bin\Debug\DataRelay.exe
+E:\chen\数据中转\DataRelay\bin\Debug\DataRelay.pdb
+E:\chen\数据中转\DataRelay\obj\Debug\DataRelay.csprojResolveAssemblyReference.cache
+E:\chen\数据中转\DataRelay\obj\Debug\DataRelay.Properties.Resources.resources
+E:\chen\数据中转\DataRelay\obj\Debug\DataRelay.csproj.GenerateResource.Cache
+D:\chen\Core\数据中转\DataRelay\bin\Debug\DataRelay.exe.config
+D:\chen\Core\数据中转\DataRelay\bin\Debug\DataRelay.exe
+D:\chen\Core\数据中转\DataRelay\bin\Debug\DataRelay.pdb
+D:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.csprojResolveAssemblyReference.cache
+D:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.Properties.Resources.resources
+D:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.csproj.GenerateResource.Cache
+D:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.exe
+D:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.pdb
+E:\chen\数据中转 - 副本\DataRelay\bin\Debug\DataRelay.exe.config
+E:\chen\数据中转 - 副本\DataRelay\obj\Debug\DataRelay.exe
+E:\chen\数据中转 - 副本\DataRelay\obj\Debug\DataRelay.pdb
+E:\chen\数据中转 - 副本\DataRelay\bin\Debug\DataRelay.exe
+E:\chen\数据中转 - 副本\DataRelay\bin\Debug\DataRelay.pdb
+E:\chen\数据中转 - 副本\DataRelay\obj\Debug\DataRelay.csprojResolveAssemblyReference.cache
+E:\chen\数据中转 - 副本\DataRelay\obj\Debug\DataRelay.Form1.resources
+E:\chen\数据中转 - 副本\DataRelay\obj\Debug\DataRelay.Properties.Resources.resources
+E:\chen\数据中转 - 副本\DataRelay\obj\Debug\DataRelay.csproj.GenerateResource.Cache
+E:\chen\数据中转\DataRelay\obj\Debug\DataRelay.Form1.resources
+D:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.MainForm.resources
+E:\chen\Core\数据中转\DataRelay\bin\Debug\DataRelay.exe.config
+E:\chen\Core\数据中转\DataRelay\bin\Debug\DataRelay.exe
+E:\chen\Core\数据中转\DataRelay\bin\Debug\DataRelay.pdb
+E:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.MainForm.resources
+E:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.Properties.Resources.resources
+E:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.csproj.GenerateResource.Cache
+E:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.exe
+E:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.pdb
+E:\chen\Core\数据中转\DataRelay\obj\Debug\DataRelay.csprojResolveAssemblyReference.cache
+D:\chen\Core\DataRelay\DataRelay\bin\Debug\DataRelay.exe.config
+D:\chen\Core\DataRelay\DataRelay\obj\Debug\DataRelay.exe
+D:\chen\Core\DataRelay\DataRelay\obj\Debug\DataRelay.pdb

@@ -1,0 +1,45 @@
+2017/4/22 10:00:03	192.168.180.1:9000	0			服务器启动，帧字节接收超时：1000毫秒  客户端刷新超时：3分钟		
+2017/4/22 10:00:53	192.168.180.1:9000	0			服务器停止		
+2017/4/22 10:00:53	192.168.180.1:2051	0			客户端上线		
+2017/4/22 10:00:54	192.168.180.1:2051	0			客户端下线		
+2017/4/22 10:01:45	192.168.180.1:9000	0			服务器启动，帧字节接收超时：1000毫秒  客户端刷新超时：3分钟		
+2017/4/22 10:01:53	192.168.180.1:2052	0			客户端上线		
+2017/4/22 10:01:55	192.168.180.1:2052	0			客户端下线		
+2017/4/22 10:01:56	192.168.180.1:2053	0			客户端上线		
+2017/4/22 10:01:59	192.168.180.1:2053	0			帧字节接收超时		
+2017/4/22 10:02:06	192.168.180.1:2053	0			帧字节接收超时		
+2017/4/22 10:02:20	192.168.180.1:9000	0			服务器停止		
+2017/4/22 10:02:20	192.168.180.1:2053	0			客户端下线		
+2017/4/22 10:02:20	192.168.180.1:2053	0			客户端下线		
+2017/4/22 10:02:20	192.168.180.1:2054	0			客户端下线		
+2017/4/22 10:03:53	192.168.180.1:9000	0			服务器启动，帧字节接收超时：1000毫秒  客户端刷新超时：3分钟		
+2017/4/22 10:03:55	192.168.180.1:2061	0			客户端上线		
+2017/4/22 10:03:56	192.168.180.1:2061	0			客户端下线1		
+2017/4/22 10:04:04	192.168.180.1:2062	0			客户端上线		
+2017/4/22 10:04:07	192.168.180.1:9000	0			服务器停止		
+2017/4/22 10:04:07	192.168.180.1:2062	0			客户端下线1		
+2017/4/22 10:04:07	192.168.180.1:2062	0			客户端下线1		
+2017/4/22 10:04:07	192.168.180.1:2063	0			客户端下线1		
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
+System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]System.String[]
